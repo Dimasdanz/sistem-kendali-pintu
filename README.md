@@ -7,3 +7,4 @@ Sistem Kendali Pintu berabasi Arduino dengan Integrasi Web dan Managemen Databas
 What's need to be done:
 Change Web to Codeigniter.
 Optimize Arduino Code.
+Android still have many bugs but it's usable.
