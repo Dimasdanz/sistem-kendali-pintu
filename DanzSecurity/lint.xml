@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="CommitPrefEdits" severity="ignore">
+        <ignore path="src/com/androidhive/pushnotifications/LoginCredentials.java" />
+    </issue>
+    <issue id="Wakelock" severity="ignore" />
+</lint>
