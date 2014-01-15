@@ -1,0 +1,4 @@
+Penyiram tanaman otomatis membantu pemilik tanaman untuk merawat tanamannya dengan cara menyiram berdasarkan tingkat kelembaban tanah.
+alat ini menyiram otomatis bila ambang bawah kelembaban tanah telah dicapai dan akan berhenti apa bila menyentuh ambang atas.
+alat ini memiliki 3 kategori kelembaban tanah yaitu, Kering, lembab, dan berair. yang memiliki ambang atas dan bawah yang cukup berbeda- beda.
+Pemilik tanaman bisa mengganti tanaman yang dirawat bahkan menambahkan tanaman baru.
