@@ -6,7 +6,7 @@ Door Control System based on Arduino with Web Programming Integration and Push-N
  1. 3x4 Keypad for Password Input
  1. I2C LCD 20x4 for display
  1. A Servo to move the door latch
- 1. Magnetic sensor to tell the Arduino wether the door is open or lock
+ 1. Magnetic sensor to tell the Arduino whether the door is open or lock
  1. Push Button to open the door from the inside
  1. Arduino and Ethernet Shield. Obviously
  1. Web Server that support PHP 5.4 and MySQL
