@@ -1,9 +1,7 @@
 Sistem Kendali Pintu
 --------------------
 ###Created by : Dimas Rullyan Danu
-
 Door Control System based on Arduino with Web Programming Integration and Push-Notification via Android
-
 ###What you need:
  1. 3x4 Keypad for Password Input
  1. I2C LCD 20x4 for display
@@ -22,8 +20,7 @@ Door Control System based on Arduino with Web Programming Integration and Push-N
  1. Push Button on A1
  1. Magnetic Sensor on A0
  1. LCD on A4 and A5
- 1. Install the app on your Android
- 1. Login as Admin
+ 1. Install the app on your Android, and Login as Admin
 
 ###How it works:
  1. Once you have user and password on the server
@@ -44,9 +41,7 @@ Door Control System based on Arduino with Web Programming Integration and Push-N
  1. [Arduino.cc](http://www.arduino.cc/)
  1. If you think your name should be included feel free to contact me
 
-
-[Facebook](http://www.facebook.com/Dimasdanz)
-
-[Twitter](http://www.twitter.com/Dimasdanz)
-
-dimasdanz@gmail.com
+###Contact:
+ + [Facebook](http://www.facebook.com/Dimasdanz)
+ + [Twitter](http://www.twitter.com/Dimasdanz)
+ + dimasdanz@gmail.com
